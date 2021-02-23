@@ -1,5 +1,5 @@
-oemof
-numpy >= 1.7.0, < 1.18
-pandas >= 0.18.0, < 0.26
+coolprop
+numpy
+pandas
 matplotlib
 
